@@ -21,7 +21,6 @@ Tasks:
 
   * Using Prometheus as a monitoring tool
 
-  ![prometheus install]()
   ![pods](./img/prometheus.png)
 
 * Metrics Alertmanager
